@@ -1,54 +1,98 @@
+<div align="center">
+
 # Nate Valerian
 
-**Full-stack software developer focused on SaaS, logistics, real-time systems, and AI-assisted workflows.**
+### Full-stack developer building AI-powered SaaS, logistics platforms, and real-time systems
 
-I build end-to-end products across backend, frontend, mobile, data, payments, integrations, and deployment. My strongest current project is **DispatchLoad / MyDispatch**, a multi-tenant logistics platform built around .NET, Angular, PostgreSQL, Kotlin, Stripe, SignalR, and AI dispatch tooling.
+I build product-style software across backend, frontend, mobile, payments, integrations, data, deployment, and AI-assisted workflows.
 
-## Featured Work
+[![Portfolio](https://img.shields.io/badge/Portfolio-nate--web3.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://nate-web3.com)
+[![Email](https://img.shields.io/badge/Email-n.nate1544%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.nate1544@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nate--valerian-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nate-valerian)
+[![X](https://img.shields.io/badge/X-%40nate__web3-1E293B?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nate_web3)
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [DispatchLoad / MyDispatch](https://github.com/Nate-valerian/MyDispatch) | AI-powered logistics SaaS for dispatch, fleet operations, driver workflows, customer tracking, invoicing, payroll, compliance, and load boards. | .NET 10, ASP.NET Core, Angular 21, TypeScript, PostgreSQL, EF Core, Kotlin Multiplatform, Docker, .NET Aspire, Stripe, SignalR, Mapbox, Firebase, AI agents |
+</div>
 
-## Why This Project Matters
+---
 
-DispatchLoad is not a small demo app. It is a full product-style system with multiple portals, a mobile driver app, tenant isolation, background jobs, real-time communication, payments, integrations, and an AI dispatch workflow designed for human review.
+## Featured Project
 
-It demonstrates:
+<table>
+<tr>
+<td width="70%">
 
-- Multi-tenant SaaS design with a master database and isolated tenant databases
-- Clean Architecture, DDD, CQRS, MediatR, EF Core, and application boundary tests
-- ASP.NET Core APIs, Duende IdentityServer, SignalR hubs, Hangfire jobs, and OpenTelemetry
-- Angular portals for dispatchers, customers, admins, and the public website
-- Kotlin Multiplatform driver app with Compose, Ktor, CameraX, and generated API clients
-- Stripe payments, Stripe Connect payouts, Mapbox routing/geocoding, Firebase notifications, ELD/load-board integrations
-- AI dispatch agent, tool calling, provider abstraction, quota/pricing controls, and an MCP server
+### [DispatchLoad / MyDispatch](https://github.com/Nate-valerian/MyDispatch)
+
+AI-powered multi-tenant logistics SaaS for trucking companies. It combines dispatch, fleet operations, customer tracking, driver mobile workflows, invoicing, payroll, ELD/HOS compliance, load boards, real-time messaging, payments, and AI dispatch decisions.
+
+**Built like a real product:** multiple portals, tenant isolation, background jobs, generated clients, external integrations, explainable AI decisions, and a Kotlin driver app.
+
+[View repository](https://github.com/Nate-valerian/MyDispatch) · [Read case study](https://github.com/Nate-valerian/MyDispatch/blob/main/CASE_STUDY.md)
+
+</td>
+<td width="30%">
+
+**Stack**
+
+`.NET 10`  
+`ASP.NET Core`  
+`Angular 21`  
+`TypeScript`  
+`PostgreSQL`  
+`Kotlin Multiplatform`  
+`Docker`  
+`Stripe`  
+`SignalR`  
+`AI Agents`
+
+</td>
+</tr>
+</table>
 
 ## Core Stack
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+</div>
+
+## Engineering Focus
+
+| Backend | Frontend | Mobile | AI and Integrations |
+| --- | --- | --- | --- |
+| C#, .NET, ASP.NET Core, EF Core, MediatR, CQRS, DDD | Angular, TypeScript, PrimeNG, Tailwind CSS, NgRx Signals | Kotlin Multiplatform, Compose, Ktor, React Native | AI agents, MCP, Stripe, Mapbox, Firebase, SignalR, ELD APIs |
 
 ## What I Build
 
-- SaaS platforms with real product workflows, not just UI clones
+- Multi-tenant SaaS platforms with real product workflows
 - APIs and domain models for operations, finance, identity, compliance, and reporting
-- Angular frontends with generated API clients, reusable components, and role-based UX
+- Angular portals with generated API clients, reusable components, and role-based UX
 - Mobile workflows for drivers and field users
 - AI-assisted business tools with reviewable decisions and tool execution
 - Integrations with payments, maps, notifications, documents, and third-party APIs
 
-## Contact
+## GitHub Snapshot
 
-- Website: [nate-web3.com](https://nate-web3.com)
-- Email: [n.nate1544@gmail.com](mailto:n.nate1544@gmail.com)
-- GitHub: [github.com/Nate-valerian](https://github.com/Nate-valerian)
-- X: [@nate_web3](https://x.com/nate_web3)
+<div align="center">
+
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nate-valerian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-valerian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+**Currently focused on:** AI-powered logistics SaaS, .NET architecture, Angular portals, real-time systems, and production-grade integrations.
+
+</div>
