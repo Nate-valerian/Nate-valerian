@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nate B
+# Nate 
 
 ### Full-stack developer building AI-powered SaaS, logistics platforms, mobile apps, web products, and automation tools
 
