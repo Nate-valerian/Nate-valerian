@@ -1,24 +1,28 @@
 # Nate Valerian
 
-Full-stack software developer building production-style SaaS platforms with .NET, Angular, PostgreSQL, AI agents, payments, and real-time workflows.
+**Full-stack software developer focused on SaaS, logistics, real-time systems, and AI-assisted workflows.**
 
-I like working on systems that connect real business operations to clean software: dispatch, logistics, payments, customer portals, mobile apps, and automation tools.
+I build end-to-end products across backend, frontend, mobile, data, payments, integrations, and deployment. My strongest current project is **DispatchLoad / MyDispatch**, a multi-tenant logistics platform built around .NET, Angular, PostgreSQL, Kotlin, Stripe, SignalR, and AI dispatch tooling.
 
-## Flagship Project
+## Featured Work
 
-### [DispatchLoad / MyDispatch](https://github.com/Nate-valerian/MyDispatch)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [DispatchLoad / MyDispatch](https://github.com/Nate-valerian/MyDispatch) | AI-powered logistics SaaS for dispatch, fleet operations, driver workflows, customer tracking, invoicing, payroll, compliance, and load boards. | .NET 10, ASP.NET Core, Angular 21, TypeScript, PostgreSQL, EF Core, Kotlin Multiplatform, Docker, .NET Aspire, Stripe, SignalR, Mapbox, Firebase, AI agents |
 
-AI-powered multi-tenant logistics SaaS for trucking companies. It includes dispatch workflows, load and trip management, customer tracking, invoicing, payroll, Stripe payments, driver mobile workflows, ELD/HOS integrations, and an AI dispatch agent with human review.
+## Why This Project Matters
 
-**What it demonstrates**
+DispatchLoad is not a small demo app. It is a full product-style system with multiple portals, a mobile driver app, tenant isolation, background jobs, real-time communication, payments, integrations, and an AI dispatch workflow designed for human review.
 
-- Multi-tenant SaaS architecture with one database per tenant
-- Clean Architecture, DDD, CQRS, MediatR, and EF Core
-- ASP.NET Core APIs, Duende IdentityServer, SignalR, Hangfire, and OpenTelemetry
-- Angular portals for dispatchers, customers, admins, and marketing
-- Kotlin Multiplatform driver app with Compose and OpenAPI-generated clients
-- Stripe, Stripe Connect, Mapbox, Firebase, ELD providers, load boards, and AI/LLM integrations
-- MCP server and shared AI dispatch tool registry for agent workflows
+It demonstrates:
+
+- Multi-tenant SaaS design with a master database and isolated tenant databases
+- Clean Architecture, DDD, CQRS, MediatR, EF Core, and application boundary tests
+- ASP.NET Core APIs, Duende IdentityServer, SignalR hubs, Hangfire jobs, and OpenTelemetry
+- Angular portals for dispatchers, customers, admins, and the public website
+- Kotlin Multiplatform driver app with Compose, Ktor, CameraX, and generated API clients
+- Stripe payments, Stripe Connect payouts, Mapbox routing/geocoding, Firebase notifications, ELD/load-board integrations
+- AI dispatch agent, tool calling, provider abstraction, quota/pricing controls, and an MCP server
 
 ## Core Stack
 
@@ -30,16 +34,17 @@ AI-powered multi-tenant logistics SaaS for trucking companies. It includes dispa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
 
-## Areas I Work In
+## What I Build
 
-- Backend: C#, .NET, ASP.NET Core, EF Core, MediatR, REST APIs, SignalR
-- Frontend: Angular, TypeScript, PrimeNG, Tailwind CSS, NgRx Signals
-- Data: PostgreSQL, multi-tenant database design, migrations, reporting
-- Cloud and ops: Docker, .NET Aspire, GitHub Actions, OpenTelemetry
-- Product integrations: Stripe, Mapbox, Firebase, ELD APIs, load board APIs
-- AI: LLM integrations, AI agents, tool calling, MCP servers
-- Mobile: Kotlin Multiplatform, Compose Multiplatform, Ktor
+- SaaS platforms with real product workflows, not just UI clones
+- APIs and domain models for operations, finance, identity, compliance, and reporting
+- Angular frontends with generated API clients, reusable components, and role-based UX
+- Mobile workflows for drivers and field users
+- AI-assisted business tools with reviewable decisions and tool execution
+- Integrations with payments, maps, notifications, documents, and third-party APIs
 
 ## Contact
 
