@@ -6,9 +6,9 @@
 
 I build product-style software across backend, frontend, mobile, payments, integrations, data, deployment, and AI-assisted workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nate--web3.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://nate-web3.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tech.dolphin-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Nate-valerian/tech.dolphin)
+[![Website](https://img.shields.io/badge/Website-nate--web3.com-1E293B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nate-web3.com)
 [![Email](https://img.shields.io/badge/Email-n.nate1544%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.nate1544@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Nate--valerian-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nate-valerian)
 [![X](https://img.shields.io/badge/X-%40nate__web3-1E293B?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nate_web3)
 
 </div>
@@ -57,7 +57,7 @@ AI-powered multi-tenant logistics SaaS for trucking companies. It combines dispa
 | **DOM** | Private AI companion/mobile product with a stable backend milestone, session-based experience engine, memory layers, token budgeting, and streaming | FastAPI, Python, SQLAlchemy, Alembic, Redis, Qdrant, SSE, OpenAI, Expo, React Native, TypeScript | Private repo |
 | **domstudio** | Public studio/web product deployed on Vercel | Python, web app, Vercel | [Repo](https://github.com/Nate-valerian/domstudio) · [Live](https://domstudio.vercel.app) |
 | **dom.web** | Public deployed brand/web project | HTML, frontend, deployed website | [Repo](https://github.com/Nate-valerian/dom.web) · [Live](http://domspace68.ru) |
-| **Claude AI MCP Bridge** | AI automation bridge for creative tooling, connecting Claude-style workflows to Adobe Premiere Pro through a CEP/WebSocket bridge | JavaScript, MCP, WebSocket, Adobe Premiere Pro, automation | [Repo](https://github.com/Nate-valerian/claude-ai-mcp-bridge) |
+| **tech.dolphin** | Personal portfolio project and public developer brand presence | HTML, frontend, portfolio website | [Repo](https://github.com/Nate-valerian/tech.dolphin) · [Live](https://nate-web3.com/) |
 
 ## Core Stack
 
@@ -94,7 +94,7 @@ AI-powered multi-tenant logistics SaaS for trucking companies. It combines dispa
 - AI products with memory, streaming, token budgets, prompts, and mobile clients
 - Angular portals with generated API clients, reusable components, and role-based UX
 - Mobile workflows for drivers, field users, and AI companion experiences
-- Public web products with deployed URLs and brand-focused frontend work
+- Public portfolio, brand, and studio websites with deployed URLs
 - Integrations with payments, maps, notifications, documents, video tools, and third-party APIs
 
 ## GitHub Snapshot
@@ -111,6 +111,6 @@ AI-powered multi-tenant logistics SaaS for trucking companies. It combines dispa
 
 <div align="center">
 
-**Currently focused on:** AI-powered logistics SaaS, DOM, .NET architecture, Angular portals, mobile AI workflows, real-time systems, and production-grade integrations.
+**Currently focused on:** AI-powered logistics SaaS, DOM, .NET architecture, Angular portals, mobile AI workflows, real-time systems, and public portfolio/product work.
 
 </div>
